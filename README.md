@@ -75,7 +75,7 @@ The receiver displays real-time data on a TFT screen, activates alert mechanisms
 ---
 
 ## 📷 Simulation Preview  
-
+Simulation image.jpg
 ---
 
 ## 👨‍💻 Author  
